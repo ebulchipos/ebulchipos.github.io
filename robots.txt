@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebulchipos.github.io/sitemap
+Sitemap: https://ebulchipos.github.io/app/sitemap
+Sitemap: https://ebulchipos.github.io/assets/sitemap
+Sitemap: https://ebulchipos.github.io/css/sitemap
+Sitemap: https://ebulchipos.github.io/includes/sitemap
+Sitemap: https://ebulchipos.github.io/item/sitemap
+Sitemap: https://ebulchipos.github.io/src/sitemap
